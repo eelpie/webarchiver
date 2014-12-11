@@ -5,7 +5,7 @@
 	<artifactId>webarchiver</artifactId>
 	<packaging>jar</packaging>
 	<name>Web archiver</name>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<description>Tools for persisting snapshots of webpages</description>
 
 	<build>
